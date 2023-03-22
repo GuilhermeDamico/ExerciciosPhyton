@@ -30,3 +30,4 @@ for num in range(220, 300):
     if num % 21 == 0:
         print('Numero encontrado', num)
         break # Se a condição for localizada, irá interromper a busca.
+
